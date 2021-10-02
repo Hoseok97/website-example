@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+.header {
+    background: yellow;
+}
+
+.main{
+    background: lime;
+}
+.hero-section {
+    background: aqua;
+}
+.main-content{
+    background: blue;
+    float: left;
+    width: 70%;
+}
+.side-content{
+    background: pink;
+    float: right;
+    width: 30%;
+}
+
+.content-info{
+    background: lightgreen;
+}
+.footer{
+    background: purple;
+}
